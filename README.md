@@ -1,4 +1,4 @@
-## Hi there 👋
+<a href="https://app.daily.dev/pratil"><img src="https://api.daily.dev/devcards/v2/h6eKSxEhDIWkwVZvOK49N.png?type=default&r=jvi" width="356" alt="Pratil's Dev Card"/></a>
 
 <!--
 **pratil/pratil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
