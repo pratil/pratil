@@ -16,5 +16,5 @@
 <br/>
 <br/>
 <a href="https://roadmap.sh/u/pratil" target="_blank" >
-  <img src="https://roadmap.sh/card/wide/67f15be02fb824bbb5d90dbd?variant=dark" width="652" alt="roadmap.sh"/>
+  <img src="https://roadmap.sh/card/wide/67f15be02fb824bbb5d90dbd?variant=dark&p=0" width="652" alt="roadmap.sh"/>
 </a>
